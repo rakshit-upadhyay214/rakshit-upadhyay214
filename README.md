@@ -1,3 +1,6 @@
+https://github.com/rakshit-upadhyay214/rakshit-upadhyay214/blob/main/This%20pin%20is%20all%20about%20coding.gif
+![This is all about coding](https://github.com/rakshit-upadhyay214/rakshit-upadhyay214/blob/main/This%20pin%20is%20all%20about%20coding.gif)
+
 <h1 align="center">Hi 👋, I'm Rakshit Upadhyay</h1>
 <h3 align="center">A passionate software developer from Indore</h3>
 
