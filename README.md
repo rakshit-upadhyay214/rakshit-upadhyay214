@@ -4,7 +4,6 @@
 </p>
 <h1 align="center">👋Hey there! I'm Rakshit Upadhyay👨‍💻</h1>
 
----
 
 <h3 align="center">💻✨ Software Developer | Always Learning, Always Growing 🚀</h3>
 
@@ -12,7 +11,7 @@
 - 🚀 💻 Exploring **Full-Stack Java Development**
 - 📩 Feel free to reach out at **rakshitupadhyay.2004@gmail.com**.
 
----
+<hr style="height:1px; border:none; background-color:gray;" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +21,7 @@
 </a>
 </p>
 
----
+<hr style="height:1px; border:none; background-color:gray;" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
@@ -39,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
 </p>
 
----
+<hr style="height:1px; border:none; background-color:gray;" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshit-upadhyay214&theme=tokyonight" alt="GitHub Streak" />
