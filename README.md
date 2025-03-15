@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/rakshit-upadhyay214/rakshit-upadhyay214/blob/main/This%20pin%20is%20all%20about%20coding.gif" 
-       alt="This is all about coding" width="500" height="250"/>
+       alt="This is all about coding" width="700" height="250"/>
 </p>
 <h1 align="center">👋Hey there! I'm Rakshit Upadhyay👨‍💻</h1>
 
